@@ -6,7 +6,7 @@
 
     <groupId>com.giaolang</groupId>
     <artifactId>mathutil-se1812</artifactId>
-    <version>67.89</version>
+    <version>20.10</version>
 
     <properties>
         <maven.compiler.source>24</maven.compiler.source>
